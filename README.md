@@ -17,7 +17,8 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
 Vào phần File > Open > Files > chọn file sv_tnut.sql đã tải trước đó
 ![Image](https://github.com/user-attachments/assets/79f13c82-2b61-4d0c-89c6-89d17c473c05)
-2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên 
+2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên
+  ![Image](https://github.com/user-attachments/assets/e89cf0d8-0bd6-4151-8095-3df9c5ab7288) 
 3.nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm
 ![Image](https://github.com/user-attachments/assets/76ab3353-0ed8-4cf0-a7c2-68431577bdba)
 4. nhập sql để tìm xem có những sv nào trùng ngày và tháng sinh 
