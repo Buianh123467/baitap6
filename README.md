@@ -39,7 +39,7 @@ ORDER BY ten COLLATE Vietnamese_CI_AS, hodem COLLATE Vietnamese_CI_AS:
 Để sắp xếp theo tên, sau đó theo họ đệm, đúng thứ tự chữ cái 
 
 ![Image](https://github.com/user-attachments/assets/e2e04da5-caed-4068-abae-15b2fb3e7c7f)
-HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV
+10.HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV
 
 Do database không có cột giới tính em sử dụng hodem 'Thi' để thay thế tạm cho giới tính nữ
 ![Image](https://github.com/user-attachments/assets/2783d36d-8f6c-4fed-a358-4ea2028ba8f7)
