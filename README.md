@@ -32,9 +32,12 @@ Vào phần File > Open > Files > chọn file sv_tnut.sql đã tải trước đ
 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
 ![Image](https://github.com/user-attachments/assets/2718bdcd-b11e-47e5-bed6-83d2e9d2df24)
 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
+   
 WHERE lop LIKE '%KTP%': để lọc sinh viên có lớp chứa chuỗi "KTP".
+
 ORDER BY ten COLLATE Vietnamese_CI_AS, hodem COLLATE Vietnamese_CI_AS:
 Để sắp xếp theo tên, sau đó theo họ đệm, đúng thứ tự chữ cái 
+
 ![Image](https://github.com/user-attachments/assets/e2e04da5-caed-4068-abae-15b2fb3e7c7f)
 HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV
 Do database không có cột giới tính em sử dụng hodem 'Thi' để thay thế tạm cho giới tính nữ
