@@ -18,6 +18,7 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 BÀI LÀM
 
  Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
+ 
 Vào phần File > Open > Files > chọn file sv_tnut.sql đã tải trước đó
 ![Image](https://github.com/user-attachments/assets/79f13c82-2b61-4d0c-89c6-89d17c473c05)
  dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên
